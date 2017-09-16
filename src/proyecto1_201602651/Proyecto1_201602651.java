@@ -7,7 +7,7 @@ package proyecto1_201602651;
 
 /**
  *
- * @author tecnico
+ * @author tecnicoa
  */
 public class Proyecto1_201602651 {
 
